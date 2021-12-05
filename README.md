@@ -316,6 +316,9 @@ End Sub
 
 ### '17 vs. '18 Refactored Stock Performance
 
+![image](https://user-images.githubusercontent.com/94253815/144730930-29d2535a-3240-4eaf-98d7-0da73bc95a9f.png)
+
+
 
 ### Coding Execution Time - Original vs. Refactored
 
