@@ -326,8 +326,12 @@ End Sub
 Code Execution time - Original 
  - 2017
 
+![image](https://user-images.githubusercontent.com/94253815/144731054-3a3e988f-fc96-41bc-9338-ed53d736e188.png)
+
 
  - 2018
+
+
 
 ## Summary
 
