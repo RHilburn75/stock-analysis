@@ -15,7 +15,7 @@
 
 #### Original
 
-###'17 vs. '18 Stock Performance
+### '17 vs. '18 Stock Performance
 
 
 ### Coding Execution Time - Original vs. Refactored
