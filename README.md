@@ -27,3 +27,5 @@
 
 
 ### Disadvantages of Refactored Code
+
+### Pro's and Con's apply to refactoring the original VBA script?
