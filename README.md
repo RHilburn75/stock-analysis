@@ -325,7 +325,7 @@ End Sub
 
 ### Coding Execution Time - Original vs. Refactored
 
-After running the codes and tracking the times in both the original code and the refactored code, I saw minimal time difference.  I ran the code multiple times with different times.  These times captured represent thimes captured the most. 
+After running the codes and tracking the times in both the original code and the refactored code, I saw minimal time difference.  I ran the code multiple times with different times.  These times captured represent thimes captured the most. Improving the efficiency did not return the speed we were looking for.  2017 times on the original code to the refactored code increased speed only 3%, while 2017 and 2018 speeds after refactoring lost time of -1%. 
 
 Original Code Execution Time- 
  - 2017
@@ -353,8 +353,11 @@ Refactored Code Execution Time-
 
 
 ### Advantages of refactored Code
-
+The refactoring codes did little to speed up the execution time. While efficient, it would have been great to see better speed and effieciency. 
 
 ### Disadvantages of Refactored Code
+  - Not keeping good notes while changing code could destroy the work you put into it.
+  - Save code often.  
+  - Run code periodically to ensure everything is working
 
-### Pro's and Con's apply to refactoring the original VBA script?
+
