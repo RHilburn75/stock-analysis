@@ -8,12 +8,11 @@
 ## Results
 
 
-### Refactoring Code
-
-
-#### Refactor
+### Original Code
 
 #### Original
+
+#### Refactor
 
 ### '17 vs. '18 Stock Performance
 
