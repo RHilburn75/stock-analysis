@@ -318,6 +318,7 @@ End Sub
 
 ![image](https://user-images.githubusercontent.com/94253815/144730930-29d2535a-3240-4eaf-98d7-0da73bc95a9f.png)
 
+![image](https://user-images.githubusercontent.com/94253815/144730958-5b39dc86-35d0-4ec6-a96a-217cdd3c5145.png)
 
 
 ### Coding Execution Time - Original vs. Refactored
