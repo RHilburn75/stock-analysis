@@ -184,7 +184,7 @@ In order to make the code more efficient I added the following:
  - Create (3) new arrays -  1) "Dim tickerVolume(12) As Long"- this will hold the volume. 2) " Dim tickerStartingPrices(12) As Single" -holds the starting price and 3)Dim tickerEndingPrices(12) As Single" - holds the end price.
  - We created a for loop to intialize the tickervolumes.
  - Inside the for loop, we created code that increases the stock ticker volume, which then adds the ticker volume for the current ticker.
- - Then we created two If / then statements on both the starting price and ending price to check on rows with the selected tickerIndex.  If it is, it wiill assign the current starting or ending price.
+ - Then we created two If / then statements on both the starting price and ending price to check on rows with the selected tickerIndex.  It wiill assign the current starting or ending price.
  - Finally, once the arrays are completed, we used for loops and variables to loop through the data, which will then compute our data and finish our analysis
 
 Sub AllStocksAnalysisRefactored()
