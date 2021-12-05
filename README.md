@@ -9,7 +9,6 @@
 
   To analyzea higher amount of stocks.  Steve is happy with the current results but let's see if we can't ge tthe results faster.  We'll take another look at the workbook and see where we can create even more effeciencies.  Here's what we'll do:
   - Look at the current code and data from the original code
-  - Show original code
   - Provide the data from the original code
   - Show refactored code
   - 2017 / 2018 refactored stock performance
