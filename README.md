@@ -323,7 +323,7 @@ End Sub
 
 ### Coding Execution Time - Original vs. Refactored
 
-Code Execution time - Original 
+Original Code Execution Time- 
  - 2017
 
 ![image](https://user-images.githubusercontent.com/94253815/144731054-3a3e988f-fc96-41bc-9338-ed53d736e188.png)
@@ -331,8 +331,14 @@ Code Execution time - Original
 
  - 2018
 
+![image](https://user-images.githubusercontent.com/94253815/144731072-6f227418-7ab4-4519-8379-91d8d965ec7a.png)
+
+Refactored Code Execution Time-
+
+ - 2017
 
 
+ - 2018
 ## Summary
 
 
