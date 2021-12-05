@@ -3,11 +3,11 @@
 ## Project Overview
 
 ### Background
-  Steve is happy witht he workbook that was created for him. He likes the features in his report.  With a snap of the finger, he can click a button and see his results.  He wants to expand his research for his parents to expand the dataset to the entire stock market, but thinks it will take too long to execute.  We'll take the current dataset and see if we can get the same results, but faster!
+  Steve is happy with he workbook that was created for him. He likes the features in his report.  With a snap of the finger, he can click a button and see his results.  He wants to expand his research for his parents to expand the dataset to the entire stock market, but thinks it will take too long to execute.  We'll take the current dataset and see if we can get the same results, but faster!
 
 ### Purpose
 
-  To analyzea higher amount of stocks.  Steve is happy with the current results but let's see if we can't ge tthe results faster.  We'll take another look at the workbook and see where we can create even more effeciencies.  Here's what we'll do:
+  To analyze a higher amount of stocks.  Steve is happy with the current results but let's see if we can't get the results faster.  We'll take another look at the workbook and see where we can create even more effeciencies.  Here's what we'll do:
   - Look at the current code and data from the original code
   - Provide the data from the original code
   - Show refactored code
@@ -315,7 +315,7 @@ Sub AllStocksAnalysisRefactored()
 End Sub
 
 ### '17 vs. '18 Refactored Stock Performance
-  When analyzing th stocks,it was a great investment decision in picking these stocks in 2017. 11 of 12 or 92% of the stockks had a positive return on investment.  Following up with thsame stocks in 2018, only 2 of 12 (17%) stocks had a positive return on investment.  It was a great decision in investing in RUN and ENPH, as these 2 stocks had positive outcomes in both 2017 and 2018. Based on these numbers, I would recommend looking into other stocks to invest in.
+  When analyzing th stocks,it was a great investment decision in picking these stocks in 2017. 11 of 12 or 92% of the stockks had a positive return on investment.  Following up with the same stocks in 2018, only 2 of 12 (17%) stocks had a positive return on investment.  It was a great decision in investing in RUN and ENPH, as these 2 stocks had positive outcomes in both 2017 and 2018. Based on these numbers, I would recommend looking into other stocks to invest in.
   
   
 ![image](https://user-images.githubusercontent.com/94253815/144730930-29d2535a-3240-4eaf-98d7-0da73bc95a9f.png)
