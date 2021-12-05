@@ -315,7 +315,7 @@ Sub AllStocksAnalysisRefactored()
 End Sub
 
 ### '17 vs. '18 Refactored Stock Performance
-
+  When analyzing th stocks,it was a great investment decision in picking these stocks in 2017. 11 of 12 or 92% of the stockks had a positive return on investment.  Following up with thsame stocks in 2018, only 2 of 12 (17%) stocks had a positive return on investment.  It was a great decision in investing in RUN and ENPH, as these 2 stocks had positive outcomes in both 2017 and 2018.
 ![image](https://user-images.githubusercontent.com/94253815/144730930-29d2535a-3240-4eaf-98d7-0da73bc95a9f.png)
 
 ![image](https://user-images.githubusercontent.com/94253815/144730958-5b39dc86-35d0-4ec6-a96a-217cdd3c5145.png)
